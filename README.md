@@ -75,7 +75,7 @@ pyqt6-calculator/
 
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan pembelajaran di Universitas Trunojoyo Madura.
+Proyek ini dilisensikan di bawah [MIT License](LICENSE). Dibuat untuk keperluan pembelajaran di Universitas Trunojoyo Madura.
 
 ---
 
